@@ -1,0 +1,11 @@
+-- 🔐 Администратор
+INSERT INTO Users (FullName, Login, Password, Role)
+VALUES ('Админов Админ Админович', 'admin', 'admin123', 'admin');
+
+-- 👤 Обычный пользователь
+INSERT INTO Users (FullName, Login, Password, Role)
+VALUES ('Пользов Петр Пользович', 'user', 'user123', 'user');
+
+-- 🕵️‍♂️ Инспектор
+INSERT INTO Users (FullName, Login, Password, Role)
+VALUES ('Инспекторов Иван Инспекторович', 'inspector', 'insp123', 'inspector');
