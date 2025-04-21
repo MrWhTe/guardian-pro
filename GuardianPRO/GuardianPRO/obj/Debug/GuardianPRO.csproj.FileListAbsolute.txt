@@ -1,0 +1,12 @@
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\bin\Debug\GuardianPRO.exe.config
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\bin\Debug\GuardianPRO.exe
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\bin\Debug\GuardianPRO.pdb
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.csproj.AssemblyReference.cache
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.LoginForm.resources
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.Properties.Resources.resources
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.csproj.GenerateResource.cache
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.csproj.CoreCompileInputs.cache
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.exe
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.pdb
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.AdminDashboardForm.resources
+C:\Users\Абдуали Дастан\OneDrive\Desktop\GuardianPRO\GuardianPRO\GuardianPRO\obj\Debug\GuardianPRO.UserManagerForm.resources
